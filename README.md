@@ -7,5 +7,5 @@ we’ll tackle this task using a variant of BERT called [DistilBERT](https://hug
 
 ### **The Dataset:**
 
-To build our emotion detector we’ve used a great dataset from an [article](https://aclanthology.org/D18-1404/) that explored how emotions are represented in English Twitter messages. Unlike most sentiment
+To build our emotion detector I have used a great dataset from an [article](https://aclanthology.org/D18-1404/) that explored how emotions are represented in English Twitter messages. Unlike most sentiment
 analysis datasets that involve just “positive” and “negative” polarities, this dataset contains six basic emotions: anger, disgust, fear, joy, sadness, and surprise. Given a tweet, our task will be to train a model that can classify it into one of these emotions.
